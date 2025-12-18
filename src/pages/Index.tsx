@@ -11,7 +11,7 @@ import FloatingElements from "@/components/FloatingElements";
 
 // Set the birthday date and time
 // For testing: 30 seconds from now. Change this to the actual birthday later!
-const BIRTHDAY_DATE = new Date(2025, 11, 19, 2, 58, 0);// seconds countdown for testing
+const BIRTHDAY_DATE = new Date(2025, 11, 22, 0, 0, 0);//nds countdown for testing
 
 // Your friend's name
 const FRIEND_NAME = "Jahil Aurat";
